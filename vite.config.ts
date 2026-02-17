@@ -2,9 +2,8 @@ import path from "path"
 import react from "@vitejs/plugin-react"
 import { defineConfig } from "vite"
 
-// https://vite.dev/config/
 export default defineConfig({
-  base: './',
+  base: "/Resume_website_v2/",
   plugins: [react()],
   resolve: {
     alias: {
