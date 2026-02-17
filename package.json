@@ -2,17 +2,15 @@
   "name": "my-app",
   "private": true,
   "version": "0.0.0",
-  "homepage": "https://239aditya.github.io/Resume_website_v2",
-
+  "homepage": "https://239aditya.github.io/Resume_website_v2/",
   "type": "module",
- "scripts": {
-  "dev": "vite",
-  "build": "tsc -b && vite build",
-  "lint": "eslint .",
-  "preview": "vite preview",
-  "deploy": "gh-pages -d dist"
-},
-
+  "scripts": {
+    "dev": "vite",
+    "build": "tsc -b && vite build",
+    "lint": "eslint .",
+    "preview": "vite preview",
+    "deploy": "gh-pages -d dist"
+  },
   "dependencies": {
     "@gsap/react": "^2.1.2",
     "@hookform/resolvers": "^5.2.2",
