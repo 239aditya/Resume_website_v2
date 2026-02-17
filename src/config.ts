@@ -77,7 +77,7 @@ export const heroConfig: HeroConfig = {
   title: "Software Developer",
   tagline: "Building Scalable Solutions with Code",
   description: "Final-year B.Tech CSE student at GL Bajaj Institute of Technology and Management. Passionate about software development, problem-solving, and creating impactful applications.",
-  portrait: "hero-portrait.jpg",
+  portrait: "/hero-portrait.jpg",
   portraitAlt: "Aditya Saini - Software Developer",
   ctaPrimary: "View My Work",
   ctaSecondary: "Get In Touch",
