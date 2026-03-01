@@ -4,7 +4,7 @@ A modern, responsive, and animated personal resume website built with React, Typ
 
 ## 🚀 Live Demo
 
-**[View Live Website(External Server)](https://nddkedklqazpa.ok.kimi.link)**
+**[View Live Website(External Server)](https://resume-website-v2-beta.vercel.app/)**
 **[View Live Website(Github Server)](https://239aditya.github.io/Resume_website_v2/)**
 
 ## 📁 Project Structure
